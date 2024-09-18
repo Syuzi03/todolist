@@ -1,0 +1,10 @@
+{
+  "texts": {
+    "en": {
+      "invalid_offset": "Invalid offset"
+    },
+    "ru": {
+      "invalid_offset": "Invalidni afsyet"
+    }
+  }
+}
